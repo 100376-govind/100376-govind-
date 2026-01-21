@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.sanishtech.com/u/77facced2a210dd14517aea4bc0897ba.jpg" alt="1000130583" width="1506" height="2000" loading="lazy" style="max-width:100%;height:auto;">
+  <img src="https://img.sanishtech.com/u/77facced2a210dd14517aea4bc0897ba.jpg" alt="1000130583" width="250" height="250" loading="lazy" style="max-width:100%;height:auto;">
 </p>
 <h1 align="center">Hi 👋, I'm Govind Raj Gupta</h1>
 <h3 align="center">💻 ML-focused developer blending Electronics, Software, and data-driven systems. 🚀 Learning, building, and optimizing real-world applications every day.</h3>
