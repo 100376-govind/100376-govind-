@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://img.sanishtech.com/u/77facced2a210dd14517aea4bc0897ba.jpg" alt="1000130583" width="250" height="250" loading="lazy" style="max-width:100%;height:auto;">
-</p>
+
 <h1 align="center">Hi 👋, I'm Govind Raj Gupta</h1>
+<p align="center">
+  <img src="https://img.sanishtech.com/u/b84a7ea4f8934b1b9e46ff2bf4da2474.png" alt="1000130889" width="500" height="450" loading="lazy" style="max-width:100%;height:auto;">
+</p>
 <h3 align="center">💻 ML-focused developer blending Electronics, Software, and data-driven systems. 🚀 Learning, building, and optimizing real-world applications every day.</h3>
 
 🔭 I’m currently working on  <br>• Machine Learning projects  <br>• AI-based prediction systems  <br>• Firebase-powered real-time applications  <br><br>👯 I’m looking to collaborate on  <br>• Open-source projects  <br>• AI / ML applications  <br>• Electronics + Software integrated systems  <br><br>🤝 I’m looking for help with  <br>• Advanced Machine Learning techniques  <br>• Model optimization & deployment  <br>• Scalable backend systems  <br><br>🌱 I’m currently learning  <br>• Machine Learning & XGBoost  <br>• System design & real-world application building  <br><br>💬 Ask me about  <br>• Python & Machine Learning  <br>• Digital Electronics & Logic Design  <br>• Firebase & project structuring  <br><br>⚡ Fun fact  <br>I enjoy turning complex concepts into practical projects and believe learning is best done by building 🚀
